@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👉Bem-vindo ao meu perfil no GitHub👈
 
-<!--
-**ferbcastro/ferbcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📃Sobre mim:
+➡️ Meu nome é Fernando</br>
+➡️ Aluno do 3<sup>o</sup> período de Ciência da Computação na UFPR</br>
+➡️ Interesse em arquitetura de computadores e aspectos teóricos</br></br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferbcastro&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻Linguagens: 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
