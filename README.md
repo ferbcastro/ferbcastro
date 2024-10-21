@@ -2,7 +2,7 @@
 
 ## 📃Sobre mim:
 ➡️ Meu nome é Fernando</br>
-➡️ Aluno do 3<sup>o</sup> período de Ciência da Computação na UFPR</br>
+➡️ Aluno do 4<sup>o</sup> período de Ciência da Computação na UFPR</br>
 ➡️ Interesse em arquitetura de computadores e aspectos teóricos</br></br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferbcastro&layout=compact)
 
