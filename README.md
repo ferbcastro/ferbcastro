@@ -1,4 +1,4 @@
-# 👉Bem-vindo ao meu perfil no GitHub👈
+# Bem-vindo ao meu perfil no GitHub
 
 ## 📃Sobre mim:
 ➡️ Meu nome é Fernando</br>
