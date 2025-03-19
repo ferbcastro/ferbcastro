@@ -1,9 +1,7 @@
 # Bem-vindo ao meu perfil no GitHub
 
 ## 📃Sobre mim:
-➡️ Meu nome é Fernando</br>
-➡️ Aluno do 4<sup>o</sup> período de Ciência da Computação na UFPR</br>
-➡️ Interesse em arquitetura de computadores e aspectos teóricos</br></br>
+➡️ Aluno do 5<sup>o</sup> período de Ciência da Computação na UFPR</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferbcastro&layout=compact)
 
 ## 💻Linguagens: 
