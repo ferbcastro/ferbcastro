@@ -1,5 +1,4 @@
-# Bem-vindo ao meu perfil no GitHub
+# Bem-vindo ao meu perfil
 
-### -> Me chamo Fernando
-### -> Atualmente no quinto período de BCC UFPR
+### -> Quinto período de BCC UFPR
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferbcastro&layout=compact)
